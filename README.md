@@ -1,6 +1,12 @@
 # Demo 
 https://www.youtube.com/watch?v=d3CqC1PwZRQ&t=39s
 
+![Alt text](./src/assets/Capture1.PNG)
+![Alt text](./src/assets/Capture2.PNG)
+![Alt text](./src/assets/Capture3.PNG)
+![Alt text](./src/assets/Capture4.PNG)
+![Alt text](./src/assets/Capture5.PNG)
+
 # Read more :
 https://www.interviewsolutionshub.com/blog/drag-drop-form-builder-in-reactjs
 
